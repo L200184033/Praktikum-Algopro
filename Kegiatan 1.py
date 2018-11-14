@@ -1,0 +1,11 @@
+## Program Identitas Data Diri. Dibuat oleh Kemas L200184033
+Nama = 'Kemas Muhamad Kevin'
+Tempat_Tanggal_Lahir = 'Palembang 9 Februari 2000'
+Jenis_Kelamin = 'Laki-laki'
+Alamat = 'Besole Bayan Purworejo'
+No_HP = '085771789954'
+Agama = 'Islam'
+Status_Perkawinan = 'Belum Menikah'
+Pekerjaan = 'Pelajar/Mahasiswa'
+Kewarganegaraan = 'Indonesia'
+Golongan_Darah = 'O'
