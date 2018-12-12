@@ -13,3 +13,4 @@ while pesan.lower() !='keluar':
     else:
         print"Respon:-"
 s.close()
+s.close
