@@ -21,7 +21,7 @@ L6.grid(row=3, column=1)
 
 def area():
     s = float(str1.get())
-    result = 3.14*(s*s)
+    result = 4*3.14*(s*s)
     L6.config (text=result)
     
 
